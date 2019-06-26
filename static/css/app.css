@@ -1,3 +1,15 @@
 /**
 * Your CSS here
 **/
+body{
+    font-family: 'Acme', sans-serif;
+    }
+h2,h1{
+    font-family: 'Bree Serif', serif;
+}
+.dark{
+    background-color: #260E5E
+}
+.light{
+    background-color: #C1890C
+}
