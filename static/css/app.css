@@ -4,17 +4,18 @@
 body{
     font-family: 'Acme', sans-serif;
     }
-h2{
+h1{
     font-family: 'Bree Serif', serif;
+    color:white
     
 }
 .dark{
     background-color:#C18E47;
-    color:#260E5E
+    color:#7E3300
 }
 .light{
     background-color: #C1890C;
-    color: #7E3300;
+    color:#260E5E
 }
 .quote{
     display:grid;
@@ -23,6 +24,14 @@ h2{
     margin:0;
 }
 .pharoah{
-    background-image:url('pharoah/images/static.jpg');
+    background-image:url('https://radiyakamal.github.io/Egypt-experience/static/images/pharoah.jpg');
     background-size: cover;
+}
+
+
+blockquote, dl, figure, form, ol, p, pre, table, ul, h2 {
+    margin-bottom: 0;
+}
+.a-two-in-one-experience-heading{
+    color:white;
 }

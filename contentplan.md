@@ -27,4 +27,11 @@ Take a ride down the longest river of africa, a river surviving centuries of anc
 Visit the ancient and royal monument dedicated to Egyptian God Amon and constructed by many pharoahs of Eqypt.
 ## Explore the City of Hurghada
 **Egypt isnt all about it's history...**
-Hurghada's heavenly red sea and undersea world is tempting enough for anyone, along with it's luxurious beaches and 
+Hurghada's heavenly red sea and undersea world is tempting enough for anyone, along with it's luxurious beaches.
+1. Hurghada Marina
+![ a night time view of the,boats,ships and cruises and restaurants of marina.](./static/images/marina.jpg)
+The ultimate jewel of Hurghada
+2. Swim with the dolphins!
+![a gif of dolphins swimming together](./static/images/dolphins.gif)
+3. Or even just a stroll through the city centre...
+![a night time view of the calm town centres of hurghada with everyday shops](./static/images/hurghada-town.jpg)
