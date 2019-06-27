@@ -4,12 +4,25 @@
 body{
     font-family: 'Acme', sans-serif;
     }
-h2,h1{
+h2{
     font-family: 'Bree Serif', serif;
+    
 }
 .dark{
-    background-color: #260E5E
+    background-color:#C18E47;
+    color:#260E5E
 }
 .light{
-    background-color: #C1890C
+    background-color: #C1890C;
+    color: #7E3300;
+}
+.quote{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    grid-gap: 5px;
+    margin:0;
+}
+.pharoah{
+    background-image:url('pharoah/images/static.jpg');
+    background-size: cover;
 }
