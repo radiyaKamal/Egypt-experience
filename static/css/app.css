@@ -9,13 +9,21 @@ h1{
     color:white
     
 }
+
+ol {
+    margin-top: 0;
+    padding-left:0;
+    padding: 20px;
+}
 .dark{
     background-color:#C18E47;
-    color:#7E3300
+    color:#660709;
+    background-image: linear-gradient(45deg, #F0C33E, #1D828B);
 }
 .light{
     background-color: #C1890C;
-    color:#260E5E
+    color:#260E5E;
+    background-image: linear-gradient(45deg, #FFE490, #c1890c);
 }
 .quote{
     display:grid;
