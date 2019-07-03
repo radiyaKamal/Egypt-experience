@@ -44,3 +44,8 @@ blockquote, dl, figure, form, ol, p, pre, table, ul, h2 {
 .a-two-in-one-experience-heading{
     color:white;
 }
+.container{
+    display: flex;
+    align-items: center;
+    width: 100%
+}
